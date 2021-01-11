@@ -1,6 +1,7 @@
 # University-Software-Engineer
 
-University project developed with a four person team (git name down below):
-pilots2013
-lorenz-espos
-lorenzo-discolo
+### University project developed with a four person team
+1. pilots2013
+2. lorenz-espos
+3. lorenzo-discolo
+4. LuigiCRS (me)
