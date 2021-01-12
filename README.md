@@ -5,3 +5,5 @@
 2. lorenz-espos
 3. lorenzo-discolo
 4. LuigiCRS (me)
+
+First project developed as a software engineer
